@@ -1,10 +1,7 @@
 {
     "require": {
       "sendgrid/sendgrid": "~7"
-    },
-      "require": {
-        "sendgrid/php-http-client": "~3.9.6"
-      }
+    }
     
   }
   
